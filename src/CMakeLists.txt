@@ -1,0 +1,2 @@
+add_subdirectory(hackson)
+add_subdirectory(lifegame)

@@ -1,0 +1,7 @@
+#ifndef INCLUDE_HACKSON_INFRA_BASE_H_
+#define INCLUDE_HACKSON_INFRA_BASE_H_
+
+const int MAX_NODE_NUM  = 2000;
+const int INVALID_VALUE = 0xFFFF;
+
+#endif
